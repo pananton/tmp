@@ -1,5 +1,4 @@
 #include <mylib/mylib.h>
-#include <iostream>
 
 namespace mylib {
 
